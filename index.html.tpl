@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>JS Comparison Table</title>
+	<title>PHP Comparison Table</title>
 	<link rel="stylesheet" href="index.css" type="text/css" media="all" title="simple" charset="utf-8">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
